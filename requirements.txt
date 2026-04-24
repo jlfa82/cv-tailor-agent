@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-telegram-bot
+python-docx
+httpx
+anthropic
+python-dotenv
